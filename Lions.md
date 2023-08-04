@@ -10,7 +10,7 @@ Ever wish you could remember those "aha!" moments from your favorite books? You'
 
 At LionR, we're all about the power of visual reminders. We turn key lessons from top books on personal growth, health & wellness, and relationships into inspiring posters. Each piece is a daily dose of inspiration, guiding you on your journey of self-improvement. So every glance at your wall becomes a moment of learning and reflection.
 
-![Sample Poster Image](sample-poster-url)
+![Sample Poster Image](Etsy_Images.png)
 
 ## Target Market
 
