@@ -1,6 +1,6 @@
 # LionR: Turning Book Wisdom into Your Daily Inspiration
 
-![LionR Logo](logo-url)
+![LionR Logo](lionr_banner.png)
 
 ## Introduction
 
