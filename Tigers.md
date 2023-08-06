@@ -26,7 +26,7 @@ The path to the future isn't without its challenges. Ensuring data privacy and s
 ## Conclusion
 Welcome to the revolution in decision-making. This system offers deep personalization, decision-making assistance, and gamification of life choices, providing unique value to users. It is poised to serve as a valuable tool for content creators and influencers, and as a digital legacy that preserves users' wisdom and experiences for future generations. The "**Tigers**" project is not just an exciting venture; it's a glimpse into a future where AI transforms our lives in deeply personal and meaningful ways.
 
-# Website Copy
+# Website Text Below
 
 # AI Ascendancy: Your Personal Digital Renaissance
 
