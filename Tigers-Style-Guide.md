@@ -4,9 +4,9 @@ Okay, I have applied all the feedback to the style guide I gave you. Here is the
 
 ## Logo
 
-The logo is a hexagon with a white background and a blue border. The logo has a gray square in the center with a blue and a teal shape on either side. The shapes on the sides are abstract and resemble a mountain and a wave. The word "EXPLORE" is written in all caps below the hexagon.
+The logo is a stylized tiger head with orange and black stripes. The logo has a white background and a black outline. The word “TYGHER” is written in all caps below the logo in a bold and futuristic font.
 
-The logo represents the brand's values of adventure, discovery, and nature. The logo should be used consistently and appropriately across all media and platforms.
+The logo represents the brand’s values of speed, strength, and intelligence. The logo also reflects the brand’s name, which is a combination of “tiger” and “higher”. The logo should be used consistently and appropriately across all media and platforms.
 
 ### Logo Usage
 
