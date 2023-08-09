@@ -30,8 +30,8 @@ The logo represents the brand’s values of speed, strength, and intelligence. T
 
 ### Logo Variations
 
-- The primary logo is the full-color version with the word "EXPLORE" below the hexagon. This logo should be used whenever possible and appropriate.
-- The secondary logo is the full-color version without the word "EXPLORE". This logo can be used when space is limited or when the brand name is already present elsewhere.
+- The primary logo is the full-color version with the word “TYGHER” below the tiger head. This logo should be used whenever possible and appropriate.
+- The secondary logo is the full-color version without the word “TYGHER”. This logo can be used when space is limited or when the brand name is already present elsewhere.
 - The monochrome logo is the black-and-white version of the primary or secondary logo. This logo can be used when printing in grayscale or when color is not available or suitable.
 
 ## Color Palette
