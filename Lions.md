@@ -29,3 +29,28 @@ So, are you ready to transform your walls into a source of daily inspiration? He
 LionR | [Email](mailto:your-email@example.com) | [Instagram](instagram-url) | [Facebook](facebook-url)
 
 Copyright © 2023 LionR. All rights reserved.
+
+
+--------------------- WeB Copy
+
+## A Character (Hero section)
+"Do you love reading and discovering cool ideas in books, but find it hard to remember them later?"
+
+## Has a Problem (Hero section / Product overview)
+"It's not easy to keep track of all the awesome stuff you learn, right?"
+
+## And Meets a Guide (About us)
+"Well, we're LionR, and we totally get it. We love books too, and we've found a fun way to remember the best parts."
+
+## Who Gives Them a Plan (Product overview)
+"We turn the coolest lessons from popular books into amazing posters. It's like having your own wall of wisdom!"
+
+## And Calls Them to Action (Shop)
+"Want to join in on the fun? Check out our Etsy shop and pick a poster that you love."
+
+## That Helps Them Avoid Failure (Testimonials/Reviews)
+"Lots of our customers say they're remembering more and feeling inspired every day. Don't miss out on the good stuff!"
+
+## And Ends in a Success (Footer)
+"Picture your room filled with awesome reminders from your favorite books. That's the LionR way!"
+
