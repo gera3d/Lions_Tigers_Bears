@@ -3,7 +3,7 @@
 
 ## Team Composition and Roles
 
-### 1. Alex - The Visionary & Communicator
+### 1. Gera *Clone - The Visionary & Communicator
 - **Additional Utility**: Automates communication, predictive analytics for planning.
 - **Collaboration Examples**: Aligns team's goals with Casey's innovations; streamlines project workflows with Jordan.
 
